@@ -54,3 +54,5 @@ yarn.lock
 
 # Package lock file
 package-lock.json
+
+.angular
